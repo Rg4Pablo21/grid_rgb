@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html{
+    font-size: 10px;
+}
+
+:root {
+    --color-1: rgb(255, 99, 71);      /* Tomato */
+    --color-2: rgb(135, 206, 235);    /* SkyBlue */
+    --color-3: rgb(255, 165, 0);      /* Orange */
+    --color-4: rgb(50, 205, 50);      /* LimeGreen */
+    --color-5: rgb(75, 0, 130);       /* Indigo */
+    --color-6: rgb(255, 20, 147);     /* DeepPink */
+    --color-7: rgb(255, 255, 0);      /* Yellow */
+    --color-8: rgb(0, 255, 255);      /* Cyan */
+    --color-9: rgb(128, 0, 128);      /* Purple */
+    --color-10: rgb(255, 192, 203);   /* Pink */
+  }
+  .elemento {
+    background-color: var(--color-1);
+    color: var(--color-2);
+  }
+    
