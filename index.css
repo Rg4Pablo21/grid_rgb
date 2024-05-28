@@ -16,12 +16,12 @@
     border: 1px solid;
 
     cursor: pointer;
-    transition: 3s;
+    transition: 1s;
 }
 
 .tablero div:hover {
     transition: 0.3 cbzs;
-    background-color: black;
+    background-color: rgb(73, 9, 119);
 }
 .c1:hover {
     background-color: var(--c1);
